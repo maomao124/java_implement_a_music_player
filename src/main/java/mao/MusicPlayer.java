@@ -21,6 +21,13 @@ public interface MusicPlayer
     void load();
 
     /**
+     * 加载音乐到musicList
+     *
+     * @param path 音乐路径
+     */
+    void load(String path);
+
+    /**
      * 开始播放或者播放下一曲
      */
     void next();

@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3420ffc9-c130-4d33-b5e9-160a3fb127e7" name="变更" comment="java_implement_a_music_player" />
+    <list default="true" id="3420ffc9-c130-4d33-b5e9-160a3fb127e7" name="变更" comment="java_implement_a_music_player">
+      <change afterPath="$PROJECT_DIR$/music/娃娃脸-小凌.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/青花瓷-周杰伦.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mao/impl/GoogleMp3spiMusicPlayerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mao/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mao/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mao/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mao/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mao/App$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mao/App$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mao/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mao/App$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mao/App$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mao/App$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mao/App$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mao/App$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mao/App$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mao/App$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mao/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mao/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mao/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mao/MusicPlayer.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +38,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2QvF4uJy9XqUR3t1DW515mEbyk9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/music" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.17" />
@@ -44,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\程序\大四下期\java实现音乐播放器\music" />
       <recent name="D:\程序\大四下期\java实现音乐播放器" />
     </key>
   </component>
@@ -92,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686225966124</updated>
-      <workItem from="1686225967476" duration="4847000" />
+      <workItem from="1686225967476" duration="7306000" />
     </task>
     <task id="LOCAL-00001" summary="java_implement_a_music_player">
       <created>1686229639905</created>
@@ -101,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686229639905</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java_implement_a_music_player">
+      <created>1686231169041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686231169041</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

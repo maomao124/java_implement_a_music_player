@@ -1,5 +1,6 @@
 package mao;
 
+import mao.impl.GoogleMp3spiMusicPlayerImpl;
 import mao.impl.JdkMusicPlayerImpl;
 
 import javax.swing.*;
@@ -26,7 +27,8 @@ public class App
 {
     public static void main(String[] args)
     {
-        MusicPlayer musicPlayer = new JdkMusicPlayerImpl();
+        //MusicPlayer musicPlayer = new JdkMusicPlayerImpl();
+        MusicPlayer musicPlayer = new GoogleMp3spiMusicPlayerImpl();
         musicPlayer.load();
 
         JFrame jFrame = new JFrame("音乐播放器");
